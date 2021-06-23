@@ -1,7 +1,7 @@
 # Pokemon
 
 
-Juego digital en donde el entrenador al seleccionar atrape el Pokemon con la Pokebola dandole clic donde apunta el curso 
+Juego digital en donde el entrenador atrape el Pokemon con la Pokebola.
 
 ![unknown](https://user-images.githubusercontent.com/68141841/123024265-6522b900-d39e-11eb-953c-3b717bfcaa83.png)
 
